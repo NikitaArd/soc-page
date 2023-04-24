@@ -9,8 +9,6 @@ html, body {
 
 body {
   background-image: url("../icons/BackGround.png");
-  background-repeat: no-repeat;
-  background-size: auto;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -19,6 +17,7 @@ body {
   margin: auto;
   padding-bottom: 0;
   margin-bottom: 0;
+  display: flow-root;
 }
 
 header {
